@@ -1,0 +1,11 @@
+# jetbrains preferences
+.idea
+
+# npm packages
+node_modules
+
+# private env 
+.env
+
+#webpack build 
+dist
